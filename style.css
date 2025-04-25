@@ -1,0 +1,146 @@
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+img{
+    width: 100%;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.about-header img{
+    width: 122px;
+    height: 95.04px;
+    object-fit: cover;
+    margin-top: 52px;
+
+}
+.about-header a{
+    letter-spacing: 0.2px;
+    color:#707070;
+    font-size:20px;
+    line-height: 27px;
+}
+
+main>img{
+    max-width: 1640px;
+    height: 613px;
+    object-fit:cover;
+    margin-top: 107px;
+    margin-bottom: 138px;
+}
+.popular-articles{
+    font-size: 40px;
+    letter-spacing: 0.4px;
+    line-height: 53px;
+    color:#707070 ;
+    margin-bottom: 70px;
+}
+.last-added-articles{
+    font-size: 40px;
+    letter-spacing: 0.4px;
+    line-height: 53px;
+    color:#707070 ;
+    margin-top: 53px;
+    margin-bottom: 70px;
+}
+.about-section article{
+    border: #FFFFFF;
+    box-shadow: #00000029 0px 3px 6px;
+    width: 483px;
+    height: 563px;
+    margin-bottom: 20px;
+}
+.about-section img{
+    width: 483px;
+    height: 282px;
+    object-fit: cover;
+}
+.about-section h3{
+    font-size: 30px;
+    letter-spacing: 0.3px;
+    line-height: 40px;
+    color: #707070;
+    padding-top: 20px;
+    padding-right: 189px;
+    padding-left: 12px;
+}
+.about-section p{
+    font-size: 18px;
+    line-height: 24px;
+    color:#707070 ;
+    padding-top: 33px;
+    padding-right: 25px;
+    padding-left: 12px;
+    padding-bottom: 73px;
+
+}
+.about-section a{
+    font-size: 24px;
+    line-height: 32px;
+    color: #707070; 
+    padding-right: 13px;
+    padding-bottom: 35px;
+    padding-left: 414px;
+   
+}
+.load-more{
+    font-size: 30px;
+    letter-spacing: 0.3px;
+    line-height: 40px;
+    color: #707070;
+}
+.about-section{
+    margin-bottom: 56px;
+}
+
+.about-footer{
+    background-color: #2E2E2E;
+    padding-top: 56px;
+    padding-bottom: 55px;
+}
+.about-footer img{
+    width: 122px;
+    height: 95.04px;
+    object-fit: cover;
+}
+.footer-contact h2{
+    font-size: 20px;
+    letter-spacing: 0.2px;
+    line-height: 17px;
+    color: #F2F2F2;
+}
+.footer-contact a{
+    font-size: 13px;
+    letter-spacing: 0.13px;
+    line-height: 17px;
+    color:#F2F2F2 ;
+}
+.footer-location h2{
+    font-size: 19px;
+    letter-spacing: 0.19px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+.footer-location a{
+    font-size: 13px;
+    letter-spacing: 0.13px;
+    line-height: 17px;
+    color:#FFFFFF ;
+}
+.footer-socials img{
+    width:43.95px ;
+    height: 43.95px;
+    object-fit: cover;
+}
+
+.container{
+    max-width: 1640px;
+    width: 100%;
+    margin: 0 auto;
+}
